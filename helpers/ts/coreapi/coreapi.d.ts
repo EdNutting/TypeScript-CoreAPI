@@ -32,10 +32,7 @@ declare class SessionAuthenticationConfig {
 }
 
 declare interface Schemas {
-    op_logs: Schema;
-    op_profile: Schema;
-    op_organisations: Schema;
-    op_walls: Schema;
+    your_api: Schema;
 }
 
 declare interface Schema {
