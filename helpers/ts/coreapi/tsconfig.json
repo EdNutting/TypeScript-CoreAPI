@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "none",
+        "sourceMap": false,
+        "outDir": "../../ts-js",
+        "outFile": "../../ts-js/op_coreapi.js",
+        "noImplicitThis": true
+    }
+}
